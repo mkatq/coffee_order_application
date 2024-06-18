@@ -1,10 +1,8 @@
-import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'screens/user/StartPage.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 import 'services/notify.dart';
 
@@ -19,6 +17,8 @@ void main() async {
 
   runApp(const ProviderScope(child: MainApp()));
 }
+
+//here is when the app starts
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
