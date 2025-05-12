@@ -13,6 +13,17 @@ This Flutter-based mobile application allows users to:
 - Analyze customer feedback using **AI and NLP** to automate rating assignments and enhance credibility.
 
 ---
+## 🚀 Features
+
+- ✔️ **Browse Coffee Shops**: Discover a variety of coffee shops near you with a simple search.
+- ✔️ **Real-Time Crowd Levels**: View live crowd data for each coffee shop to help you avoid long lines.
+- ✔️ **Estimated Arrival Time**: Get accurate arrival time estimates based on distance and current traffic conditions.
+- ✔️ **AI-Powered Feedback Analysis**: Automatically analyze customer reviews using AI and NLP to give better insights and trustworthy ratings.
+- ✔️ **Order Customization**: Customize your coffee orders with different sizes, flavors, and add-ons.
+- ✔️ **Secure Payment Integration**: Complete your coffee orders securely using popular payment gateways.
+- ✔️ **Order Tracking**: Track the status of your order in real-time, from preparation to delivery.
+
+---
 
 ## 🖼️ Screenshots
 
