@@ -34,9 +34,3 @@ This Flutter-based mobile application allows users to:
 - ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🔗 Links
-
-- [Live Demo](https://example.com/coffee-order-app)
-- [GitHub Repo](https://github.com/mkatq/coffee_order_application)
